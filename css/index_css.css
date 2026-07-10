@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'DM Mono';
+    src: url('assets/fonts/dm-mono/DMMono-Medium.ttf') format('truetype');
+    font-weight: 500; /* 500 represents Medium weight */
+    font-style: normal;
+
+    font-family: 'DM Regular';
+    src: url('assets/fonts/dm-mono/DMMono-Regular.ttf') format('truetype');
+    font-weight: 500; /* 500 represents Medium weight */
+    font-style: normal;
+}
+
