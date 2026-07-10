@@ -1,18 +1,23 @@
+/* 1. DM Mono - Medium */
 @font-face {
     font-family: 'DM Mono';
     src: url('assets/fonts/dm-mono/DMMono-Medium.ttf') format('truetype');
-    font-weight: 500; /* 500 represents Medium weight */
-    font-style: normal;
-
-    font-family: 'DM Regular';
-    src: url('assets/fonts/dm-mono/DMMono-Regular.ttf') format('truetype');
-    font-weight: 500; /* 500 represents Medium weight */
+    font-weight: 500; 
     font-style: normal;
 }
 
+/* 2. DM Mono - Regular (Grouped under the same family name, but with weight 400) */
+@font-face {
+    font-family: 'DM Mono';
+    src: url('assets/fonts/dm-mono/DMMono-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular is 400 */
+    font-style: normal;
+}
+
+/* 3. DM Sans - Variable Font */
 @font-face {
     font-family: 'DM Sans';
     src: url('assets/fonts/dm-sans/DMSans-VariableFont_opsz,wght.ttf') format('truetype');
-    font-weight: 500; /* 500 represents Medium weight */
+    font-weight: 100 900; /* Allows you to use any weight from 100 to 900 */
     font-style: normal;
 }
