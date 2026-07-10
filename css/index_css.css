@@ -10,3 +10,9 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'DM Sans';
+    src: url('assets/fonts/dm-sans/DMSans-VariableFont_opsz,wght.ttf') format('truetype');
+    font-weight: 500; /* 500 represents Medium weight */
+    font-style: normal;
+}
