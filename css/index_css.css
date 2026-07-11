@@ -22,7 +22,7 @@
     font-style: normal;
 }
 
-.header_head , .logo_text {
+ .logo_text {
     display: flex;
 }
 
