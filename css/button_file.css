@@ -4,8 +4,20 @@
     height: 30px;
 }
 
+.print_rec_1 {
+    background-color: rgb(234, 234, 234);
+    border: 1px solid rgb(234, 234, 234);
+}
+
+.calendar_1 {
+    background-color: black;
+    color: white;
+}
+
 .btn_column {
     width: 120px;
     height: 30px;
+    background-color: rgb(255, 233, 206);
+    border: 1px solid rgb(255, 233, 206);;
 }
 
