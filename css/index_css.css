@@ -34,3 +34,7 @@ body {
     display: flex; 
     flex-direction: column;
 }
+
+.section_3 , .section_2 {
+    display: flex;
+}
