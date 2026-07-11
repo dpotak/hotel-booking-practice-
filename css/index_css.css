@@ -26,3 +26,7 @@
     display: flex;
 }
 
+.list_btn_pages {
+    display: flex; 
+    flex-direction: column;
+}
