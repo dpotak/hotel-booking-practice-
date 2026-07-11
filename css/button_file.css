@@ -21,3 +21,7 @@
     border: 1px solid rgb(255, 233, 206);;
 }
 
+.btn_column:hover {
+    background-color: aliceblue;
+    border-radius: 8px;
+}
