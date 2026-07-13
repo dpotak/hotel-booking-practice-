@@ -24,4 +24,5 @@
 .btn_column:hover {
     background-color: aliceblue;
     border-radius: 8px;
+    transition: 1s;
 }
